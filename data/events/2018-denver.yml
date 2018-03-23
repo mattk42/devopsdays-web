@@ -96,4 +96,4 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: bronze
     label: Bronze
   - id: alt
-    label: Alternative
+    label: Ancillary
